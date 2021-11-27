@@ -13,6 +13,8 @@ body{
 
 span{
     color: #fb9e5c;
+    text-shadow: 3px 2px 0px #743f1a;
+    padding-right: 5px;
 }
 h2{
     font-family: 'Acme', sans-serif;
